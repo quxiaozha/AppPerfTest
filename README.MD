@@ -2,6 +2,8 @@
 ##### It hasn't been verified and need enhance to make the data more accurate
 [![Java CI with Maven](https://github.com/quxiaozha/AppPerfTest/actions/workflows/maven.yml/badge.svg)](https://github.com/quxiaozha/AppPerfTest/actions/workflows/maven.yml)
 
+![AndroidAppPerfTool.png](screenshot%2FAndroidAppPerfTool.png)
+
 - Clone the project
 - cd /AndroidAppPerfTool
 - Run docker-compose up
