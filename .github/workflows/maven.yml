@@ -25,7 +25,7 @@ jobs:
       # Maven 打包
       - name: Build with Maven
         run: mvn -B package --file ./AndroidAppPerfTool/pom.xml
-      - run: mkdir staging && cp target/*jar-with-dependencies.jar staging
+      - run: mkdir staging && cp AndroidAppPerfTool/target/*jar-with-dependencies.jar staging
 
       # 设置 jobs Maven pom 版本环境变量
       - name: Set Release version env variable
