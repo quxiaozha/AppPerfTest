@@ -42,7 +42,7 @@
     </build>
     <packaging>jar</packaging>
 
-    <name>AndoridAppPerfTool</name>
+    <name>AndroidAppPerfTool</name>
     <url>http://maven.apache.org</url>
 
     <properties>

@@ -17,7 +17,7 @@ public class AdbUtil {
     private static final String totalKey = "TOTAL";
 
     public static String exeCmd(String commandStr) {
-//        log.info("Method exeCmd : " + commandStr);
+        log.info("Method exeCmd : " + commandStr);
 
         String[] commandStrArr = commandStr.split(" ");
         BufferedReader br = null;
