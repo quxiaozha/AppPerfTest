@@ -11,7 +11,6 @@
 - Open http://127.0.0.1:3000/login to configure the influxdb data source
 - Add the dashboard you want and play with it ^_^
 
-
 > 《移动App性能评测与优化》
 > 
 > 内存的主要组成索引：
@@ -24,5 +23,10 @@
 > 内存工具：
 > - Android Studio/Memory Monitor：观察Dalvik内存
 > - dumpsys meminfo：观察整体内存
+> - dumpsys procstats --hours 3
 > - smaps：观察整体内存的详细组成
 > - Eclipse Memory Analyzer：详细分析Dalvik内存
+> 
+> 电量工具
+> - adb shell dumpsys batterystats
+> - https://github.com/google/battery-historian
