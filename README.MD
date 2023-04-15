@@ -33,3 +33,7 @@
 > 电量工具
 > - adb shell dumpsys batterystats
 > - https://github.com/google/battery-historian
+> 
+> 性能工具
+> perfetto https://ui.perfetto.dev/#!/ 
+> Android Profiler 
