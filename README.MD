@@ -11,6 +11,9 @@
 - Open http://127.0.0.1:3000/login to configure the influxdb data source
 - Add the dashboard you want and play with it ^_^
 
+##### Todo
+- fps
+
 > 《移动App性能评测与优化》
 > 
 > 内存的主要组成索引：
